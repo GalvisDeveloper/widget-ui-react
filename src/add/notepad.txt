@@ -1,0 +1,7 @@
+import { getCities } from "../services/httpVerbs/getCities";
+import { getExtendPronostic } from "../services/httpVerbs/getExtendPronostic";
+import { getHeadquarters } from "../services/httpVerbs/getHeadquarters";
+
+ getHeadquarters();
+  getCities();
+  getExtendPronostic();
