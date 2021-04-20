@@ -1,4 +1,4 @@
-.container {
+.container__header {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -31,6 +31,15 @@
   width: auto;
 }
 
+.right__side div {
+  height: 100%;
+  width: auto;
+  display: flex;
+  align-items: center;
+  position: relative;
+  padding: 0 5px;
+}
+
 .title__ui h5 {
   margin-left: 10px;
   margin-right: 5px;
@@ -39,18 +48,6 @@
 .arrow__icon {
   margin-right: 5px;
 }
-/* .left__side,
-.right__side {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding-left: 10px;
-  width: 18%; 
-} */
-
-/* .right__side {
-  padding-right: 10px;
-} */
 
 .select__menu {
   border: none;

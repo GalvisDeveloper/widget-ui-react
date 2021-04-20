@@ -21,3 +21,11 @@ h5 {
   margin-block-start: 0.2em;
   margin-block-end: 0.2em;
 }
+
+.App {
+  text-align: center;
+}
+
+.App__main {
+  display: flex;
+}

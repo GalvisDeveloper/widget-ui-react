@@ -1,0 +1,6 @@
+.container__sidebar {
+  flex: 0.03;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

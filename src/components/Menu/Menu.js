@@ -11,7 +11,7 @@ import "./Menu.css";
 
 const Menu = () => {
   return (
-    <header className="container">
+    <header className="container__header">
       {/*  ------------- Left side ----------- */}
       <div className="left__side">
         <div className="widget__icon">
